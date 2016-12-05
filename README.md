@@ -15,7 +15,7 @@ SVN 轉 Git Batch file
 Config
 ===========
 set repository= [SVN repository位置 ]  
-set revision= [Empty 或輸入SVN起始版號  
+set revision= [Empty 或輸入SVN起始版號]  
 set folder= [要放置Git的位置]  
 set user= [使用者帳號]  
 set repository_git= [Git repository位置 ]  
