@@ -7,19 +7,18 @@
 
 
 clear
-#echo ""
-#echo " .oooooo..o oooooo     oooo ooooo      ooo      .oooo.        .oooooo.     o8o      .  " 
-#echo "d8P'    `Y8  `888.     .8'  `888b.     `8'    .dP''Y88b      d8P'  `Y8b    `o'    .o8  " 
-#echo "Y88bo.        `888.   .8'    8 `88b.    8           ]8P'    888           oooo  oo888oo" 
-#echo " `Y88888o.     `888. .8'     8   `88b.  8         .d8P'     888           `888    888  " 
-#echo "     `Y888b     `888.8'      8     `88b.8       .dP'        888     ooooo  888    888  " 
-#echo "oo     .d8P      `888'       8       `888     .oP     .o    `88.    .88'   888    888 ."
-#echo "88888888P'        `8'       o8o        `8     8888888888     `Y8bood8P'   o888o   '8888"
-#echo ""
-#echo "                                                                    Create by : Chonpin"
-#echo "                                                                   chonpin[at]gmail.com"
-#echo ""
-
+echo ""
+echo ""
+echo " ____   __     __  _   _     ____       ____   _   _   "
+echo "/ ___|  \ \   / / | \ | |   |___ \     / ___| (_) | |_ "
+echo "\___ \   \ \ / /  |  \| |     __) |   | |  _  | | | __|"
+echo " ___) |   \ V /   | |\  |    / __/    | |_| | | | | |_ "
+echo "|____/     \_/    |_| \_|   |_____|    \____| |_|  \__|"
+echo ""
+echo "                                    Create by : Chonpin"
+echo ""                                                        
+echo ""
+echo ""
 
 
 
@@ -146,5 +145,4 @@ function func_bye(){
 
 
 # run shell script
-clear
 func_start
